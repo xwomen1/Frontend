@@ -247,7 +247,7 @@ html {
     justify-content: center;
     display: none;
 }
-.modal .open{
+.modal.open{
     display:flex;
 }
 .modal-body{
